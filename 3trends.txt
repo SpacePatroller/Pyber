@@ -1,0 +1,5 @@
+Pyber Ride Sharing three noticeable trends. 
+
+1 - Suburban cities account for the market share of ride shares. 
+2- Rural cities have the highest fare, most likely due to the distance between locations. 
+3 - Though urban ride sharing does not have the same percentage of driver count market share they still account for a larger percent of average fares and rides in consideration to their amount of drivers. 
